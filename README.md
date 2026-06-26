@@ -1,0 +1,1 @@
+To evaluate a password, it must be analyzed for length, complexity, and predictability. A secure tool processes the string entirely local to your browser so your sensitive credentials never leave your machine
